@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://briannaserrano.github.io/axes_odin/axes/exercise_1.html)
+[Live Demo Link](https://briannaserrano.github.io/axes_odin/)
 
 
 ## Getting Started
